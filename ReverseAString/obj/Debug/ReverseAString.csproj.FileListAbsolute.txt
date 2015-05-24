@@ -5,3 +5,9 @@ C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\ReverseAString\bi
 C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\ReverseAString\obj\Debug\ReverseAString.csprojResolveAssemblyReference.cache
 C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\ReverseAString\obj\Debug\ReverseAString.exe
 C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\ReverseAString\obj\Debug\ReverseAString.pdb
+C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\bin\Debug\ReverseAString.exe.config
+C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\obj\Debug\ReverseAString.exe
+C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\obj\Debug\ReverseAString.pdb
+C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\bin\Debug\ReverseAString.exe
+C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\bin\Debug\ReverseAString.pdb
+C:\Users\Josh\Documents\GitHub\Reverse-a-String\ReverseAString\obj\Debug\ReverseAString.csprojResolveAssemblyReference.cache

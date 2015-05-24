@@ -12,7 +12,7 @@ namespace ReverseAString
         static void Main()
         {
             // Let's print out a nice welcome message for our user.
-            Console.WriteLine("Welcome to Josh's Sentence Reverser 4000!" + Environment.NewLine);
+            Console.WriteLine("Welcome to Josh's Sentence Reverser 4000!\n");
 
             // Ask the user for the string they would like reversed.
             Console.Write("Please enter the sentence you would like reversed: ");
